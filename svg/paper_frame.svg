@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300">
+  <title>Paper Frame</title>
+  <rect x="14" y="14" width="392" height="272" rx="10" ry="10"
+        fill="white" stroke="#111" stroke-width="5"/>
+  <!-- rough edge lines -->
+  <path d="M20 35 Q210 25 400 40" fill="none" stroke="#111" stroke-width="2" opacity="0.5"/>
+  <path d="M18 260 Q210 285 402 260" fill="none" stroke="#111" stroke-width="2" opacity="0.5"/>
+</svg>

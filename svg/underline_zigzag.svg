@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 40">
+  <title>Zigzag Underline</title>
+  <path d="M10 30 L40 10 L70 30 L100 10 L130 30 L160 10 L190 30 L220 10 L250 30" 
+        fill="none" stroke="#111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

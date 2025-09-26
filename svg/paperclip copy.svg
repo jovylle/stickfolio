@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160">
+  <title>Paperclip</title>
+  <path d="M60 20 q40 0 40 40 v60 q0 30 -30 30 q-30 0 -30 -30 V60 q0 -18 18 -18 q18 0 18 18 v60" 
+        fill="none" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

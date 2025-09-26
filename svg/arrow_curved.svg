@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120">
+  <title>Curved Arrow</title>
+  <path d="M10 90 Q120 10 200 40" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 22 L204 44 L172 48" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

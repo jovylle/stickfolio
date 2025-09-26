@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 260">
+  <title>Stick Jo Waving</title>
+  <circle cx="120" cy="48" r="26" fill="none" stroke="#111" stroke-width="8"/>
+  <path d="M120 74 L120 150" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+  <path d="M80 110 Q120 92 120 110" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120 110 Q160 92 190 80" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+  <path d="M186 54 L198 26" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120 150 L96 210 M120 150 L144 210" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+</svg>

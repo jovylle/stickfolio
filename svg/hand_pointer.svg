@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 200">
+  <title>Hand Pointer</title>
+  <path d="M110 30 v70" stroke="#111" stroke-width="16" stroke-linecap="round"/>
+  <path d="M110 100 q-20 -10 -30 8 q-12 22 10 34 q-16 10 -8 24 q8 16 28 6 q14 16 34 6 q18 -8 8 -26 q20 -6 16 -26 q-4 -24 -28 -18" 
+        fill="none" stroke="#111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

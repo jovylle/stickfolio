@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 160">
+  <title>Sticky Note</title>
+  <path d="M10 10 H150 V120 L120 150 H10 Z" fill="#fffde1" stroke="#111" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="30" cy="24" r="6" fill="#111"/>
+</svg>
