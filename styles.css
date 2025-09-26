@@ -1,0 +1,54 @@
+:root {
+  --ink: #111;
+  --accent: #ff4d00;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font: 16px/1.5 system-ui, sans-serif;
+  background: #fff;
+  color: var(--ink);
+}
+header { padding: 1rem; }
+.nav { display: flex; gap: 1rem; justify-content: center; }
+.nav-btn {
+  width: 100px;
+  height: auto;
+  cursor: pointer;
+  transition: transform 120ms ease, filter 120ms ease;
+}
+.nav-btn:hover {
+  transform: rotate(-2deg) scale(1.05);
+  filter: drop-shadow(0 2px 2px var(--accent));
+}
+
+.panel { padding: 2rem; max-width: 720px; margin: auto; }
+h1, h2 { margin: 0.4em 0; }
+
+.link {
+  border-bottom: 3px solid var(--ink);
+  text-decoration: none;
+  color: inherit;
+  transition: border 120ms;
+}
+.link:hover { border-bottom-width: 5px; color: var(--accent); }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px,1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.card {
+  padding: 1rem;
+  background: #fff;
+  border: 3px solid var(--ink);
+  border-radius: 8px;
+  transform: rotate(-1deg);
+  transition: transform 120ms;
+}
+.card:hover { transform: rotate(1deg); }
+.card h3 { margin: 0.2em 0; }
+.card a { text-decoration: none; color: inherit; }
+.card a:hover { color: var(--accent); }
